@@ -20,6 +20,12 @@
 
 
 
+Para observar o Deploy da rede iterativo criado através do Gephi [clique aqui](https://carlos1999.github.io/Network_Analysis_BBB_on_Tweeter/network/#).
+
+![imagem](https://github.com/Carlos1999/Network_Analysis_BBB_on_Tweeter/figuras/twetter_gephi.png)
+
+
+
 ## :hammer_and_wrench: As principais tecnologias utilizadas foram:
 
 - Python;
