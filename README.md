@@ -31,7 +31,10 @@
 
 ## :large_blue_diamond: Passo a passo para reprodução
 
+Caso queira reproduzir por conta o notebook é necessário: 
 
+- Criar uma conta de desenvolvedor do Twitter para ter acesso a API, isso é feito a partir desse [link](https://developer.twitter.com/en/apply-for-access).
+- Executar as células do notebook na ordem.
 
 
 
